@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rehlity</string>
+    <string name="search">البحث عن رحلات</string>
+    <string name="madina">المدينه</string>
+    <string name="type">نوع المركب</string>
+    <string name="namemarsy">اسم المرسى</string>
+    <string name="type_trip">نوع الرحله</string>
+    <string name="num_human">عدد الاشخاص</string>
+    <string name="date">تاريخ الرحله</string>
+    <string name="data_trip">بيانات الرحله</string>
+
+</resources>
